@@ -218,7 +218,7 @@ python quiz.py
 ### 👤 Student Information
 
 - **Name:** Dandu Hasini
-- **GitHub Username:** hasinidandu
+- **GitHub Username:** hasinidandu05
 - **edX Username:** hasini_30
 - **City/Country:** Visakhapatnam, India
 - **Date of Video Recording:** July 20, 2025
