@@ -8,7 +8,7 @@
 
 ---
 
-# 📜 Project Overview
+# Project Overview
 
 "Ultimate Quiz" represents my comprehensive final project submission for Harvard's CS50x course. This terminal-based Python application serves as both a knowledge assessment tool and a celebration of the entire CS50 curriculum. The game systematically tests understanding across all major CS50 topics - from basic C programming concepts to advanced Python, SQL, and web development principles covered in the course.
 
@@ -16,7 +16,7 @@ The project was developed over approximately 40 hours of focused work, incorpora
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### Comprehensive Question Bank
 
@@ -57,7 +57,7 @@ The project was developed over approximately 40 hours of focused work, incorpora
 
 ---
 
-### 📁 Project Files:
+### Project Files:
 
 - `quiz.py` – main game logic, handles question flow, scoring, and feedback
 - `requirements.txt` – specifies required Python packages (`termcolor`)
@@ -65,7 +65,7 @@ The project was developed over approximately 40 hours of focused work, incorpora
 
 ---
 
-# 🧠 Detailed Design Decisions
+# Detailed Design Decisions
 
 ## Terminal Interface Rationale
 
@@ -118,7 +118,7 @@ Particular attention was paid to:
 - Docstrings and comments
 - Error handling at all levels
 
-# 🛠️ Technical Challenges & Solutions
+# Technical Challenges & Solutions
 
 ### Challenge 1: Maintaining State Across Game Sessions
 **Problem:** Needed persistent storage that would survive program restarts
@@ -141,7 +141,7 @@ Particular attention was paid to:
 - Automatic retry prompts
 - Clear error messages
 
-# 🔮 Future Roadmap
+# Future Roadmap
 
 ## Short-Term Enhancements
 
@@ -164,7 +164,7 @@ Particular attention was paid to:
 - Community question submission
 - Integration with CS50 IDE
 
-# 📊 Performance Metrics
+# Performance Metrics
 
 The current implementation achieves:
 
@@ -173,7 +173,7 @@ The current implementation achieves:
 - Support for 1000+ concurrent questions
 - Leaderboard operations in O(log n) time
 
-# 🙏 Acknowledgments
+# Acknowledgments
 
 This project stands on the shoulders of:
 
@@ -188,7 +188,7 @@ Special thanks to:
 - Python core developers for robust standard library
 - VS Code team for excellent development environment
 
-# 👨‍💻 Student Reflection
+# Student Reflection
 
 Completing CS50x through this project has been transformative. From struggling with Week 0's Scratch to building this structured application, the journey has taught me:
 
@@ -219,6 +219,7 @@ python quiz.py
 
 - **Name:** Dandu Hasini
 - **GitHub Username:** hasinidandu05
+- **Linkedin URL:**www.linkedin.com/in/hasini-dandu-341234293
 - **edX Username:** hasini_30
 - **City/Country:** Visakhapatnam, India
 - **Date of Video Recording:** July 20, 2025
