@@ -201,7 +201,7 @@ This project represents not just technical skills gained, but a fundamental shif
 
 ---
 
-### 🛠️ How to Run:
+###How to Run:
 
 #### Prerequisites:
 - Python 3.8+
